@@ -1,1 +1,2 @@
-# my-app
+# apache-configuration-ci
+Configuring Apache CI 
